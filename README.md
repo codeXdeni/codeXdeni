@@ -12,13 +12,13 @@
 
 # Hello, Universe!
 
-- 🧠 **What I build:** [Your description here - e.g., web apps, mobile games, dev tools, etc.]
+- 🧠 **What I build:** Web apps, Mobile Apps, and Dev Tools.
 
-- 🎨 **What I care about:** [Your description here - e.g., clean code, accessibility, performance, etc.]
+- 🎨 **What I care about:** Clean Code, Accessability, and Performance.
 
-- 🧩 **Tech I'm using:** [Your tech stack - e.g., React, Python, PostgreSQL, etc.]
+- 🧩 **Tech I'm using:** TypeScript, React, Node.js, PostegreSQL, Git, and Cloud Deploy
 
-- 🚀 **Fun fact:** [Something interesting about you or your coding journey]
+- 🚀 **Fun fact:** My interest and passion for coding began during my high school career. My math teacher at the time had tied the day's lesson into java programing and it grabbed my attention almost instantly. I have been learning and developing new skills since that day. 
 
 ### 🛠️ My Toolkit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,7 +29,7 @@
 *Replace these with your own tech stack! Find more badges at [shields.io](https://shields.io) or [this repository](https://github.com/Ileriayo/markdown-badges)*
 
 ### Connect with me
-[LinkedIn](https://linkedin.com/in/yourprofile) • [My Scrimba Profile](https://scrimba.com/me/scrims) • [My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](#) • [Portfolio](#)
+[LinkedIn](https://linkedin.com/in/deni-cg-kevin) • [My Scrimba Profile](https://scrimba.com/me/scrims) • [My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](#) • [Portfolio](#)
 
 **Don't forget to add your Scrimbassador link to the end of the URLs above!** (e.g., `https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]`)
 
