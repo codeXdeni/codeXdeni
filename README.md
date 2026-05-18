@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeXdeni&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deni.C&theme=synthwave)](https://git.io/streak-stats)
 
 *Replace `yourusername` with your actual GitHub username. You can also change the theme - options include: radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, dracula, and more!*
 
