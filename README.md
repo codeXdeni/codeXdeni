@@ -29,7 +29,7 @@
 *Replace these with your own tech stack! Find more badges at [shields.io](https://shields.io) or [this repository](https://github.com/Ileriayo/markdown-badges)*
 
 ### Connect with me
-[LinkedIn](https://linkedin.com/in/deni-cg-kevin) • [My Scrimba Profile](https://scrimba.com/me/scrims) • [My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](#) • [Portfolio](#)
+[LinkedIn](https://linkedin.com/in/deni-cg-kevin) • [My Scrimba Profile](https://scrimba.com/@codeXdeni) • [My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](#) • [Portfolio](#)
 
 **Don't forget to add your Scrimbassador link to the end of the URLs above!** (e.g., `https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]`)
 
@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeXdeni&theme=synthwave)](https://git.io/streak-stats)
 
 *Replace `yourusername` with your actual GitHub username. You can also change the theme - options include: radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, dracula, and more!*
 
